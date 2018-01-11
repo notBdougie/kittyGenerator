@@ -1,7 +1,9 @@
 // There are over 200 breeds of cats
 const breeds = [
   "ragdoll",
-  "bengal"
+  "bengal",
+  "cheshire",
+  "tabby"
 ]
 
 module.exports = {
