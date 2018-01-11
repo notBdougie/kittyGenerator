@@ -2,7 +2,8 @@
 const breeds = [
   "ragdoll",
   "bengal",
-  "cheshire"
+  "cheshire",
+  "tabby"
 ]
 
 module.exports = {
