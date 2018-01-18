@@ -2,6 +2,7 @@
 
 const breeds = [
   "AAA",
+  "box ear",
   "Abyssinian",
   "Aegean Cat",
   "Alaskan Snow Cat",
