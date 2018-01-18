@@ -2,7 +2,6 @@
 
 const breeds = [
   "AAA",
-  "box ear",
   "Abyssinian",
   "Aegean Cat",
   "Alaskan Snow Cat",
@@ -23,6 +22,7 @@ const breeds = [
   "Bengal",
   "Birman",
   "Bombay",
+  "Box Ear",
   "Britanica",
   "British Shorthair",
   "Burmese",
