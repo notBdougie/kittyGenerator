@@ -22,6 +22,7 @@ const breeds = [
   "Bengal",
   "Birman",
   "Bombay",
+  "Box Ear",
   "Britanica",
   "British Shorthair",
   "Burmese",
