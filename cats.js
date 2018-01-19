@@ -3,7 +3,6 @@
 const breeds = [
   "AAA",
   "Abyssinian",
-  "Calico",
   "Aegean Cat",
   "Alaskan Snow Cat",
   "American Bobtail",
@@ -28,6 +27,7 @@ const breeds = [
   "British Shorthair",
   "Burmese",
   "Burmilla",
+  "Calico",
   "California Spangled",
   "Chantilly/Tiffany",
   "Chartreux",
