@@ -106,6 +106,7 @@ const breeds = [
   "Somali",
   "Sphynx",
   "Sterling",
+  "Tabby",
   "Templecat",
   "Tiffanie",
   "Tiffany/Chantilly",
