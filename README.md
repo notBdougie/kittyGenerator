@@ -1,8 +1,8 @@
-# Kitty Generator
+# Command line Kitty Generator
 
 ![cat-choooser](https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif)
 
-Choosing a cat is hard, but thanks to this project it choosed for you. 
+Choosing a cat is hard, but thanks to this project it chooses for you. 
 
 ## Setup
 
