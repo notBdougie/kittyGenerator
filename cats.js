@@ -95,6 +95,7 @@ const breeds = [
   "Russian Blue",
   "Russian Shorthair",
   "Russian White",
+  "Sabre-Toothed Tiger",
   "Savannah",
   "Scottish Fold",
   "Selkirk Rex",
