@@ -1,7 +1,6 @@
 // There are now 112 breeds
 
 const breeds = [
-  "Kalico",
   "Abyssinian",
   "Aegean Cat",
   "Alaskan Snow Cat",
@@ -67,6 +66,7 @@ const breeds = [
   "Javanese",
   "Javanese",
   "Jungala",
+  "Kalico",
   "Karel Bobtail",
   "Korat",
   "Kucing Malaysia",
