@@ -1,7 +1,7 @@
 // There are now 112 breeds
 
 const breeds = [
-  "kalico",
+  "Kalico",
   "Abyssinian",
   "Aegean Cat",
   "Alaskan Snow Cat",
