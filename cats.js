@@ -66,6 +66,7 @@ const breeds = [
   "Javanese",
   "Javanese",
   "Jungala",
+  "Kalico",
   "Karel Bobtail",
   "Korat",
   "Kucing Malaysia",
