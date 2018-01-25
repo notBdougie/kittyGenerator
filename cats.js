@@ -52,6 +52,7 @@ const breeds = [
   "European Shorthair",
   "Exotic",
   "Exotic Shorthair",
+  "Feline",
   "Foreign Longhair",
   "Foreign Shorthair",
   "Geoffroy's Cat",
