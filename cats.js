@@ -1,7 +1,6 @@
 // There are now 112 breeds
 
 const breeds = [
-  "toyger",
   "Abyssinian",
   "Aegean Cat",
   "Alaskan Snow Cat",
@@ -116,6 +115,7 @@ const breeds = [
   "Tiffany/Chantilly",
   "Tonkinese",
   "Toyger",
+  "Toyger2TheElectricBoogaloo",
   "Turkish",
   "Turkish Angora",
   "Turkish Van",
