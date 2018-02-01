@@ -115,6 +115,7 @@ const breeds = [
   "Tiffany/Chantilly",
   "Tonkinese",
   "Toyger",
+  "Toyger2TheElectricBoogaloo",
   "Turkish",
   "Turkish Angora",
   "Turkish Van",
