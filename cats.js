@@ -27,6 +27,7 @@ const breeds = [
   "Burmese",
   "Burmilla",
   "Calico",
+  "Calinfornia Regular",
   "California Spangled",
   "Chantilly/Tiffany",
   "Chartreux",
