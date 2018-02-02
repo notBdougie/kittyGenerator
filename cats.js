@@ -85,6 +85,7 @@ const breeds = [
   "Munchkin",
   "Nebelung",
   "Neva Masquerade",
+  "New Cat",
   "Norwegian Forest Cat",
   "Ocicat",
   "Oriental",
