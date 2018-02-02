@@ -101,6 +101,7 @@ const breeds = [
   "Russian White",
   "Savannah",
   "Scottish Fold",
+  "Scottish Fold Two",
   "Selkirk Rex",
   "Siamese",
   "Siberian",
