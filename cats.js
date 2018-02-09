@@ -1,7 +1,6 @@
 // There are now 112 breeds
 
 const breeds = [
-  "Donskoy",
   "Abyssinian",
   "Aegean Cat",
   "Alaskan Snow Cat",
@@ -47,6 +46,7 @@ const breeds = [
   "Doll (Open) Faced Persian",
   "Domestic Longhair",
   "Domestic Shorthair",
+  "Donskoy",
   "Don Sphynx",
   "Dragon Li",
   "Egyptian Mau",
