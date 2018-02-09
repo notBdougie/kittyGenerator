@@ -46,6 +46,7 @@ const breeds = [
   "Doll (Open) Faced Persian",
   "Domestic Longhair",
   "Domestic Shorthair",
+  "Donskoy",
   "Don Sphynx",
   "Dragon Li",
   "Egyptian Mau",
