@@ -97,6 +97,7 @@ const breeds = [
   "Ragdoll",
   "Russian Black",
   "Russian Blue",
+  "Russian Hairless",
   "Russian Shorthair",
   "Russian White",
   "Savannah",
