@@ -1,7 +1,6 @@
 // There are now 112 breeds
 
 const breeds = [
-  "Siamese",
   "Abyssinian",
   "Aegean Cat",
   "Alaskan Snow Cat",
@@ -107,7 +106,8 @@ const breeds = [
   "Scottish Fold",
   "Scottish Fold Two",
   "Selkirk Rex",
-  "Siamese the first",
+  "Siamese",
+  "Siamese 2",
   "Siberian",
   "Singapura",
   "Snowshoe",
