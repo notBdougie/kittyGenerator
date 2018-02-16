@@ -106,7 +106,7 @@ const breeds = [
   "Scottish Fold",
   "Scottish Fold Two",
   "Selkirk Rex",
-  "Siamese",
+  "Siamese the first",
   "Siberian",
   "Singapura",
   "Snowshoe",
