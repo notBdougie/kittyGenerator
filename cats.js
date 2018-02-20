@@ -20,6 +20,7 @@ const breeds = [
   "Balinese",
   "Bengal",
   "Birman",
+  "Black Footed Cat",
   "Bombay",
   "Box Ear",
   "Brazilian Shorthair",
