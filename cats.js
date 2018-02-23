@@ -7,6 +7,7 @@ const breeds = [
   "Aegean Cat",
   "Alaskan Snow Cat",
   "American Bobtail",
+  "American Bobtail 2",
   "American Burmese",
   "American Curl",
   "American Keuda",
