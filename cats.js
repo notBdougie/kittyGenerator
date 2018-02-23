@@ -1,6 +1,7 @@
 // There are now 112 breeds
 
 const breeds = [
+  "American Bobtail",
   "Abyssinian",
   "Abyssinian 2",
   "Aegean Cat",
