@@ -8,7 +8,7 @@ Choosing a cat is hard, but thanks to this project it chooses for you.
 
 ```js
 npm install
-node index.js
+npm run kitty
 ```
 
 ## Contributing
