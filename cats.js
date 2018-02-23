@@ -2,6 +2,7 @@
 
 const breeds = [
   "Abyssinian",
+  "Abyssinian 2",
   "Aegean Cat",
   "Alaskan Snow Cat",
   "American Bobtail",
