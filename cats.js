@@ -70,6 +70,7 @@ const breeds = [
   "Himalayan",
   "Honeybear",
   "Japanese Bobtail",
+  "Japanese Bobtail 3",
   "Javanese",
   "Javanese",
   "Jungala",
