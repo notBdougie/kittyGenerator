@@ -1,7 +1,6 @@
 // There are now 112 breeds
 
 const breeds = [
-  "Japanese Bobtail",
   "American Bobtail",
   "Abyssinian",
   "Abyssinian 2",
@@ -71,6 +70,7 @@ const breeds = [
   "Himalayan",
   "Honeybear",
   "Japanese Bobtail",
+  "Japanese Bobtail 2",
   "Javanese",
   "Javanese",
   "Jungala",
